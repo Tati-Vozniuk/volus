@@ -251,8 +251,8 @@ header a {
 
 @media (max-width: 490px) {
     header {
-        font-size: 13px; 
-        padding: 5px 0; 
+        font-size: 11px; 
+        padding: 8px 0; 
     }
     .header {
         justify-content: center; 
