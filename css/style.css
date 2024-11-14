@@ -201,7 +201,7 @@ header a {
     */
     width: 100%;
     height: 620px;
-    background-image: url('https://github.com/Tati-Vozniuk/volus/blob/5893f0e66e077a88f4a0888d09cfb7052e7782d2/img/main_page/price_background.png');
+    background-image: url("../img/main_page/price_background.png");
     background-size: contain; 
     background-repeat: no-repeat; 
     background-position: center; 
